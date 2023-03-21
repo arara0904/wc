@@ -1,0 +1,3 @@
+http_headers:
+  COEP: "require-corp"
+  CORP: "same-origin"

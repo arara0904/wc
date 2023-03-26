@@ -16,7 +16,8 @@ app.listen(port, () => {
             "type": "module",
             "dependencies": {
               "express": "latest",
-              "nodemon": "latest"
+              "nodemon": "latest",
+              "nodegit": "latest"
             },
             "scripts": {
               "start": "nodemon index.js"
